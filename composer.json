@@ -1,0 +1,19 @@
+{
+    "name": "fouzo09/contact",
+    "description": "Plugin pour formulaire de contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DIALLO Mafouz",
+            "email": "mafouzdiallo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fouzo09\\Contact\\": "src/"
+        }
+    }
+}
